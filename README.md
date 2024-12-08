@@ -2,7 +2,7 @@ The Bankist App is a simple banking web application that allows users to log in,
 
 LOGIN:
 
-Enter your username and PIN to log in. Usernames are the first letters of each word in the owner's name (e.g., "Arda Hakan ATAOGLU" becomes "aht").
+Enter your username and PIN to log in. Usernames are the first letters of each word in the owner's name (e.g., "Arda Hakan ATAOGLU" becomes "aha").
 Click the "Login" button to access your account.
 
 VIEW MOVEMENTS:
